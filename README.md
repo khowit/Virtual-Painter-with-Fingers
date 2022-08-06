@@ -12,5 +12,5 @@ Define index finger tip and middle finger tip for hand landmark.
 3.Fingers close together move to function bar on the top zone for choosing color/eraser.
 ![pain4](https://user-images.githubusercontent.com/37103032/182364290-4838bff8-ad1a-4c64-84a1-c81c109484cf.png)
 <br />
-4.Erase line.
+4.Erase.
 ![pain5](https://user-images.githubusercontent.com/37103032/182364322-87d1e153-8122-4629-a583-4971ff002567.png)
